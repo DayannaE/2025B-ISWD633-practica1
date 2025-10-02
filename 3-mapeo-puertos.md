@@ -13,7 +13,8 @@ docker run -d --name <nombre contenedor> -p <puerto host>:<puerto contenedor> <n
 Crear un contenedor a partir de la imagen nginx version alpine con el mapeo de puertos del ejemplo gráfico, host 3000 y contenedor 80
 # COMPLETAR
 
-# COLOCAR UNA CAPTURA DE PANTALLA  DEL ACCESO http://localhost:3000
+<img width="664" height="273" alt="imagen" src="https://github.com/user-attachments/assets/89e3cef3-9cc0-4240-816b-6527ec4700e7" />
+
 
 ### Para mapear más de un puerto
 
